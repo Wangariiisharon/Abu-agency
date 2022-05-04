@@ -1,0 +1,229 @@
+*{ 
+    background-image: rgb(241,234,234); 
+}  
+#Home{ 
+    background-color: rgb(255,255,255);
+}
+.navigationbar{ 
+    display: flex;
+} 
+.navigationbar img{ 
+    margin-left: -3%; 
+    height: 10vh; 
+} 
+.navigationbar p{ 
+    margin-left:-3%; 
+} 
+.navigationbar a{ 
+   
+    margin-left: -5%; 
+    padding-inline: 1%; 
+    text-decoration: none; 
+    padding: 15px 20px; 
+    text-align: center; 
+ margin-bottom: 5%; 
+
+
+}  
+.Button1{ 
+   margin-left: 30%; 
+   height:5vh; 
+   background-color: rgb(81,132,249); 
+   border-radius: 35px; 
+   font-family: sans-serif;
+} .icons{ 
+    margin-left: 5%;
+}  
+.statement { 
+display: flex;
+} 
+.statement img{ 
+    margin-left: 20%; 
+    height: 70vh;
+}
+.text h3{ 
+    font-size: 400%; 
+    font-family: sans-serif;
+} 
+.text p{ 
+    font-size: 150%;
+} 
+.image1{ 
+    margin-right: -2%; 
+  
+}
+.Button3{ 
+    height: 5vh; 
+    border-radius: 35px; 
+    background-color: rgb(73,160,145);
+}
+.Button4{ 
+     margin-left: 3%; 
+     height: 8vh;
+     border-radius: 35px;
+} 
+/* .Page1{ 
+    display: flex; 
+    margin-left: 10%;
+} 
+.box1{ 
+ 
+    padding: 5%; 
+    border: 2px solid rgb(236, 224, 224); 
+    background-color: white; 
+    height: 2%;
+} */ 
+.Page1{ 
+    display: flex;
+    margin-left: 10%;
+} 
+.box1{ 
+    padding: 5%; 
+    background-color: rgb(255,255,255); 
+    width: 15%;
+    height: 5vh;
+} 
+.box2{ 
+    padding: 5%; 
+    background-color: rgb(255,255,255); 
+    width: 15%;
+    height: 5vh;
+} 
+.box3{ 
+    padding: 5%; 
+    background-color: rgb(255,255,255); 
+    width: 15%;
+    height: 5vh;
+} 
+.icons2{ 
+    display: flex; 
+    /* padding: 10%; */ 
+    padding: 15px 20px;  
+    margin-left: -3%;
+}  
+.slack{ 
+    margin-left: 15%; 
+    padding: 5%;
+} 
+.prudential{ 
+    margin-left: 10%; 
+    padding: 5%; 
+}
+.microsoft{ 
+    margin-left: 10%; 
+    padding: 5%; 
+} 
+.zoover{ 
+    margin-left: 10%; 
+    padding: 5%; 
+}
+.statement2{
+margin-left: 50%; 
+margin-top: -25%;
+font-size: 110%;   
+}
+.text5{
+font-size: 120%;
+margin-left: -5%;    
+}
+.signup{
+ margin-top: 15%; 
+ margin-left: -15%;  
+}
+.paragraph{
+ margin-left: 60%;
+ margin-top: 10%;   
+}
+.picture{
+ margin-top: -19%; 
+ height: 70vh;  
+}
+.logo2 img{ 
+    height: 10vh;  
+    margin-left: 40%;
+} 
+.logo2 p{ 
+    margin-left: 48%;
+    margin-top: -4%;
+} 
+.logo2 h4{ 
+    font-size: 200%; 
+    margin-left: 40%;
+} 
+.Page2{ 
+    display: flex; 
+    margin-left: 10%;
+} 
+.box4{ 
+    padding: 5%; 
+border: 2px solid rgb(245,249,250); 
+
+background-color: rgb(245,249,250) ;
+} 
+.box5{ 
+    padding: 5%; 
+border: 2px solid rgb(73,160,145); 
+
+background-color: rgb(73,160,145);
+} 
+.box6{ 
+    padding: 5%; 
+border: 2px solid rgb(234,246,255); 
+
+background-color: rgb(234,246,255);
+} 
+.logo3 img{ 
+width: 30%;
+
+    margin-right: -90%;
+}   
+.logo3 p{ 
+    margin-left: 50%;
+}
+.sta
+.Howwework2{ 
+    display: flex; 
+    padding-left: 10%;
+} 
+.Howwework2 img{ 
+    height: 70vh;  
+    margin-left: 5%; 
+} 
+#SignUp h3{ 
+font-size: 200%;
+margin-left: 40%;
+} 
+#SignUp p{ 
+    margin-left: 40%;  
+} 
+.box{ 
+    width: 30vw; 
+    background-color: rgb(73,160,145); 
+    margin-left: 40%;
+    height: 8vh; 
+    border-radius: 10px;
+} 
+.button5{ 
+    margin-left: 50%;
+    margin-top: 3%;  
+    background-color: rgb(81,132,249); 
+    height: 5vh;
+    border-radius: 10px;
+} 
+.last{ 
+    display: flex;
+} 
+.last img{ 
+    height: 70vh; 
+    margin-left: 40%;
+} .logo4 img{
+height: 10vh;
+} 
+.logo4{ 
+margin-left: 9%; 
+margin-top: -1%;
+} 
+.form{ 
+margin-top: 10%; 
+
+}
